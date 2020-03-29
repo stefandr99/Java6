@@ -28,6 +28,54 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="FileChooser2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frames.FileChooser2" />
+      <module name="Java6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frames.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frames.Main" />
+      <module name="Java6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frames.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MouseMotionListenerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frames.MouseMotionListenerExample" />
+      <module name="Java6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frames.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MouseMotionListenerExample" />
+        <item itemvalue="Application.FileChooser2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -38,7 +86,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584980203105</updated>
-      <workItem from="1584980207549" duration="2429000" />
+      <workItem from="1584980207549" duration="3185000" />
+      <workItem from="1585327070908" duration="11000" />
+      <workItem from="1585394283888" duration="32009000" />
+      <workItem from="1585498021669" duration="12491000" />
     </task>
     <servers />
   </component>
@@ -46,13 +97,45 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="25" key="#Project_Structure" timestamp="1584983715891">
+    <state x="275" y="25" key="#Project_Structure" timestamp="1585402555203">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1584983715891" />
-    <state x="213" y="21" key="Maven.ArtifactSearchDialog" timestamp="1584984104902">
+    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1585402555203" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1585440485062">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="213" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1584984104902" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585440485062" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1585516236419">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585516236419" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1585516236418">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585516236418" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1585516236418">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585516236418" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1585516236419">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585516236419" />
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog" timestamp="1585402672235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1585402672235" />
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1585498022127">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585498022127" />
+    <state x="413" y="136" key="extract.method.dialog" timestamp="1585432035038">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="136" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1585432035038" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585512084190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585512084190" />
   </component>
 </project>
